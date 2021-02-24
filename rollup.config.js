@@ -21,6 +21,7 @@ const onwarn = (warning, onwarn) =>
 	(warning.code === 'THIS_IS_UNDEFINED') ||
 	onwarn(warning);
 
+
 export default {
 	client: {
 		input: config.client.input().replace(/\.js$/, '.ts'),
@@ -35,8 +36,9 @@ export default {
 				preprocess: sveltePreprocess({ sourceMap: dev }),
 				compilerOptions: {
 					dev,
-					hydratable: true
-				}
+					hydratable: true,
+				},
+				emitCss:true,
 			}),
 			url({
 				sourceDir: path.resolve(__dirname, 'src/node_modules/images'),
@@ -91,7 +93,7 @@ export default {
 					generate: 'ssr',
 					hydratable: true
 				},
-				emitCss: false
+				emitCss: true,
 			}),
 			url({
 				sourceDir: path.resolve(__dirname, 'src/node_modules/images'),
