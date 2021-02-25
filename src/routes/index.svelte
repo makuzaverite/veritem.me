@@ -43,7 +43,7 @@
         target="__blank"
         class=" text-blue-500">open source enthusiast</a
       >
-      . I spend most of my time writting open source tools and
+      . I spend most of my time writing open source tools and
       <a href="https://codekin.tech" class="text-blue-500" target="__blank"
         >writting</a
       > my opinions around them.
