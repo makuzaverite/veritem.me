@@ -21,6 +21,13 @@
       },
     ],
   }}
+  twitter={{
+    site: "@makuza_mugabo_verite",
+    title: "Makuza Mugabo Verite",
+    description: "Verite's site",
+    image: "https://veritem.me/logo.jpg",
+    imageAlt: "Logo",
+  }}
 />
 
 <section
