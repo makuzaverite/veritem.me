@@ -45,7 +45,7 @@
       >
       . I spend most of my time writing open source tools and
       <a href="https://codekin.tech" class="text-blue-500" target="__blank"
-        >writting</a
+        >writing</a
       > my opinions around them.
     </p>
     <p class="text-base sm:text-base md:text-lg text-gray-400">
