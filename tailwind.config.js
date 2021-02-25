@@ -7,15 +7,14 @@ module.exports = {
   theme: {
       backgroundColor: theme => ({
        ...theme('colors'),
-       'primary': '#000',
+       'primary': '#050505',
       }),
       fontFamily: {
         sans: ['Inter', 'system-ui'],
       },
-      // textColor: theme => ({
-      //   // ...theme('colors'),
-      //   'primary': '#74767d',
-      // })
+      textColor:{
+        'primary':'#959595'
+      }
     },
   variants: {
     extend: {},
