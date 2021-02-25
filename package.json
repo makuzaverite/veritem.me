@@ -17,6 +17,7 @@
     "@fullhuman/postcss-purgecss": "^4.0.2",
     "compression": "^1.7.1",
     "cypress": "^6.5.0",
+    "mocha": "^8.3.0",
     "polka": "^0.5.2",
     "sirv": "^1.0.0"
   },

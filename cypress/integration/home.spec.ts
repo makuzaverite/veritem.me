@@ -1,9 +1,14 @@
 /// <reference types="Cypress"/>
 
-// const { beforeEach } = require('mocha')
+// const {  beforEach} = require('mocha')
 
 
 describe('The Home Page', () => {
+
+  // beforeEach(()=>{
+  //   cy.exec("npm run dev")
+  // })
+
   it('successfully loads', () => {
     cy.visit('/') // change URL to match your dev URL
   })
@@ -11,4 +16,5 @@ describe('The Home Page', () => {
   it('has title',()=>{
     cy.contains("Verite")
   })
+
 })
