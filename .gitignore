@@ -7,3 +7,6 @@ yarn-error.log
 
 static/index.css
 .vscode
+
+cypress/videos
+cypress/screenshots
