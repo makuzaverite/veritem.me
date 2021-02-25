@@ -9,10 +9,16 @@
     <h2 class="text-gray-100  text-5xl mb-8 font-bold capitalize">
       Hi! I'm Makuza Mugabo verite
     </h2>
-    <!-- <h1 class="text-white text-3xl pb-2">I'm Makuza Mugabo Verite</h1> -->
-    <p class=" text-base sm:text-base md:text-lg text-gray-400 mb-4">
-      I'm a curious software developer and open source enthusiast. I spend my
-      time using them and writting my opinions using them.
+    <p class="text-base sm:text-base md:text-lg text-gray-400 mb-4">
+      I'm a curious software developer and <a
+        href="https://github.com/makuzaverite"
+        target="__blank"
+        class=" text-blue-500">open source enthusiast</a
+      >
+      . I spend my time using them and
+      <a href="https://codekin.tech" class="text-blue-500" target="__blank"
+        >writting</a
+      > my opinions on them.
     </p>
     <p class="text-base sm:text-base md:text-lg text-gray-400">
       You can reach out to me by using an <a

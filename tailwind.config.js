@@ -12,9 +12,6 @@ module.exports = {
       fontFamily: {
         sans: ['Inter', 'system-ui'],
       },
-      textColor:{
-        'primary':'#959595'
-      }
     },
   variants: {
     extend: {},
