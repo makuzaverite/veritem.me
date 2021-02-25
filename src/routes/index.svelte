@@ -15,10 +15,10 @@
         target="__blank"
         class=" text-blue-500">open source enthusiast</a
       >
-      . I spend most of wirtting open source tools and
+      . I spend most of my time writting open source tools and
       <a href="https://codekin.tech" class="text-blue-500" target="__blank"
         >writting</a
-      > my opinions on them.
+      > my opinions around them.
     </p>
     <p class="text-base sm:text-base md:text-lg text-gray-400">
       You can reach out to me by using an <a
