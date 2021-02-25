@@ -15,7 +15,7 @@
         target="__blank"
         class=" text-blue-500">open source enthusiast</a
       >
-      . I spend my time using them and
+      . I spend most of wirtting open source tools and
       <a href="https://codekin.tech" class="text-blue-500" target="__blank"
         >writting</a
       > my opinions on them.
