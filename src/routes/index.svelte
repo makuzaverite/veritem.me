@@ -1,6 +1,27 @@
+<script>
+  import SvelteSeo from "svelte-seo"
+</script>
+
 <svelte:head>
   <title>Verite</title>
 </svelte:head>
+
+<SvelteSeo
+  openGraph={{
+    title: "Makuza Mugabo Verite",
+    description: "Verite' Personal website",
+    url: "https://veritem.me/",
+    type: "website",
+    images: [
+      {
+        url: "https://veritem.me/logo.jpg",
+        width: 850,
+        height: 650,
+        alt: "Logo",
+      },
+    ],
+  }}
+/>
 
 <section
   class="bg-primary h-screen w-screen flex justify-center flex-col items-center font-sans"
