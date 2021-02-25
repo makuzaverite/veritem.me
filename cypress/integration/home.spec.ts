@@ -6,13 +6,10 @@
 describe('The Home Page', () => {
 
   // beforeEach(()=>{
-  //   cy.exec("npm run dev")
   // })
 
-  it('successfully loads', () => {
-    cy.visit('/') // change URL to match your dev URL
+  it('Loads the homepage', () => {
+     cy.visit('/')
   })
-
-
 
 })
