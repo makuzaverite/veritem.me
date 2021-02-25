@@ -9,9 +9,9 @@ describe('The Home Page', () => {
   //   cy.exec("npm run dev")
   // })
 
-  it('successfully loads', () => {
-    cy.visit('/') // change URL to match your dev URL
-  })
+  // it('successfully loads', () => {
+  //   cy.visit('http://localhost:3000') // change URL to match your dev URL
+  // })
 
   // it('has title',()=>{
   //   cy.contains("Verite")
