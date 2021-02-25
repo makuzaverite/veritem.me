@@ -8,6 +8,8 @@
 
 ### Licence
 
+This is Project is under [MIT](https://github.com/makuzaverite/veritem.me/blob/main/LICENSE) Licence
+
 
 
 
