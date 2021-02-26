@@ -56,7 +56,7 @@
       or DM on
       <a href="https://twitter.com/makuza_mugabo_v" class="text-blue-500"
         >twitter</a
-      > I'm always happy to meet with new people
+      > I'm always happy to meet with new people.
     </p>
   </div>
 </section>
