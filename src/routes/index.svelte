@@ -30,9 +30,7 @@
   }}
 />
 
-<section
-  class="bg-primary h-screen w-screen flex justify-center flex-col items-center font-sans"
->
+<section class="flex h-5/6 justify-center flex-col items-center font-sans">
   <div class="w-1/2 md:w-1/2 sm:w-4/5">
     <h2
       class="text-gray-100 text-5xl  md:text-5xl sm:text-4xl mb-8 font-bold capitalize"
