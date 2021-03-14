@@ -38,25 +38,25 @@
       Hi! I'm Makuza Mugabo verite
     </h2>
     <p class="text-base sm:text-base md:text-lg text-gray-400 mb-4">
-      I'm a curious software developer and <a
+      I'm a curious software Engineer and <a
         href="https://github.com/makuzaverite"
         target="__blank"
-        class=" text-blue-500">open source enthusiast</a
+        class=" text-blue-500">open source fanitic</a
       >
-      . I spend most of my time developing, using open source tools and
+      . I spend the majority of my time designing, using open source software, and
       <a href="https://codekin.tech" class="text-blue-500" target="__blank"
-        >writing</a
-      > my opinions around them.
+        >blogging</a
+      > about my experiences.
     </p>
     <p class="text-base sm:text-base md:text-lg text-gray-400">
-      You can reach out to me by using an <a
+      You can contact me via <a
         href="mailto:mugaboverite@gmail.com"
         class="text-blue-500">email</a
       >
-      or DM on
+      or
       <a href="https://twitter.com/makuza_mugabo_v" class="text-blue-500"
-        >twitter</a
-      > I'm always happy to meet with new people.
+        >Twitter (DMs)</a
+      >. Meeting new people always makes me smile.
     </p>
   </div>
 </section>
