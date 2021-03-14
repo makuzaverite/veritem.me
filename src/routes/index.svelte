@@ -4,6 +4,7 @@
 
 <svelte:head>
   <title>Makuza Mugabo Verite</title>
+  <meta name="description" content="Verite' Personal website" />
 </svelte:head>
 
 <SvelteSeo
