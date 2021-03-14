@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-  <title>Verite</title>
+  <title>Makuza Mugabo Verite</title>
 </svelte:head>
 
 <SvelteSeo
@@ -24,7 +24,7 @@
   twitter={{
     site: "@makuza_mugabo_verite",
     title: "Makuza Mugabo Verite",
-    description: "Verite's site",
+    description: "Verite's personal website site",
     image: "https://veritem.me/logo.jpg",
     imageAlt: "Logo",
   }}
