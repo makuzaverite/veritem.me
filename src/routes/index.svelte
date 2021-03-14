@@ -41,7 +41,7 @@
       I'm a curious software Engineer and <a
         href="https://github.com/makuzaverite"
         target="__blank"
-        class=" text-blue-500">open source fanitic</a
+        class=" text-blue-500">open source fanatic</a
       >
       . I spend the majority of my time designing, using open source software, and
       <a href="https://codekin.tech" class="text-blue-500" target="__blank"
