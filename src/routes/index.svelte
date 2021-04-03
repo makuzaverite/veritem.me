@@ -32,9 +32,9 @@
 />
 
 <section class="flex h-5/6 justify-center flex-col items-center font-sans">
-  <div class="w-1/2 md:w-1/2 sm:w-4/5">
+  <div class="w-full pl-4 pr-4 md:w-1/2 md:pl-0 md:pr-0 sm:w-4/5">
     <h2
-      class="text-gray-100 text-5xl  md:text-5xl sm:text-4xl mb-8 font-bold capitalize"
+      class="text-gray-100 text-5xl  md:text-5xl sm:text-xl mb-8 font-bold capitalize"
     >
       Hi! I'm Makuza Mugabo verite
     </h2>
