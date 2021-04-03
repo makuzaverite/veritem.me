@@ -27,7 +27,7 @@
     title: "Makuza Mugabo Verite",
     description: "Verite's personal website site",
     image: "https://veritem.me/logo.jpg",
-    imageAlt: "Logo",
+    imageAlt: "logo",
   }}
 />
 
