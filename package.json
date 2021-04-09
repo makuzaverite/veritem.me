@@ -1,6 +1,7 @@
 {
 	"name": "veritem.me",
 	"version": "0.0.1",
+	"license": "MIT",
 	"scripts": {
 		"dev": "svelte-kit dev",
 		"build": "svelte-kit build",
@@ -10,6 +11,7 @@
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-node": "next",
+		"@sveltejs/adapter-vercel": "next",
 		"@sveltejs/kit": "next",
 		"svelte": "^3.29.0",
 		"vite": "^2.1.0",
