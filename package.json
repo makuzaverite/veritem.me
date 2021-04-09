@@ -7,7 +7,8 @@
 		"build": "svelte-kit build",
 		"start": "svelte-kit start",
 		"lint": "prettier --check . && eslint --ignore-path .gitignore .",
-		"format": "prettier --write ."
+		"format": "prettier --write .",
+		"prepare": "husky install"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-node": "next",
@@ -29,7 +30,8 @@
 		"cssnano": "^4.1.10",
 		"postcss": "^8.2.9",
 		"postcss-load-config": "^3.0.1",
-		"tailwindcss": "^2.1.0"
+		"tailwindcss": "^2.1.0",
+		"husky": "^6.0.0"
 	},
 	"type": "module"
 }
