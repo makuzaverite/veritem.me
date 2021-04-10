@@ -3,7 +3,7 @@
 	import '../app.postcss';
 </script>
 
-<section class="bg-primary h-screen w-full">
+<main class="bg-primary h-screen w-full">
 	<slot />
 	<Footer />
-</section>
+</main>
