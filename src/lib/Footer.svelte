@@ -3,7 +3,7 @@
 </script>
 
 <footer class="text-white text-sm sm:text-base md:text-base w-full text-center fixed">
-	Makuza Mugabo Verite &copy;{CURRENTYEAR}
+   🦀 Makuza Mugabo Verite &copy;{CURRENTYEAR} 🦀
 </footer>
 
 <style>

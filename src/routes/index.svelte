@@ -5,7 +5,7 @@
 
 <section class="flex h-5/6 justify-center flex-col items-center font-sans">
 	<div class="w-full pl-4 pr-4 md:w-1/2 md:pl-0 md:pr-0 sm:w-4/5">
-		<h2 class="text-gray-100 text-5xl  md:text-5xl sm:text-xl mb-8 font-bold capitalize">
+		<h2 class="text-gray-100 text-5xl  md:text-4xl sm:text-xl mb-8 font-bold capitalize">
 			Hi! I'm Makuza Mugabo verite
 		</h2>
 		<p class="text-base sm:text-base md:text-lg text-gray-400 mb-4">
